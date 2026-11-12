@@ -1,0 +1,1 @@
+CONCATENATE("a",D1,"b")&"c"
